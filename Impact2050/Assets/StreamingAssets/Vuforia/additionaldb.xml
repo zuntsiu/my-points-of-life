@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ci_Logo2" size="20.000000 19.760000" />
+    <ImageTarget name="impact" size="20.000000 12.211055" />
+  </Tracking>
+</QCARConfig>
